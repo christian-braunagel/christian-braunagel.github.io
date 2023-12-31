@@ -10,6 +10,13 @@ import Contact from "./Contact";
 const Main = () => (
   <main id="main">
     <About />
+  </main>
+);
+
+export default Main;
+
+/*
+    <About />
     <Experience />
     <Projects />
     <Skills />
@@ -18,7 +25,4 @@ const Main = () => (
     <Contact />
     <hr />
     <Footer />
-  </main>
-);
-
-export default Main;
+ */
