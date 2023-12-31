@@ -17,6 +17,7 @@ export default function About() {
               src={img}
               height="100%"
               width="50%"
+              alt="user"
               style={{ borderRadius: "50%" }}
             />
           </Col>
