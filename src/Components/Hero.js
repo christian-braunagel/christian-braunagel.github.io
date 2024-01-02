@@ -1,4 +1,4 @@
-import img from "./images/6.jpg";
+import img from "./images/hero.jpg";
 import Typed from "react-typed";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
@@ -40,7 +40,7 @@ export default function Hero() {
               <a href="https://github.com/bhushan-borole">
                 <i class="bx bxl-github"></i>
               </a>
-              <a href="https://www.linkedin.com/in/bhushan-borole/">
+              <a href="https://www.linkedin.com/in/christian-braunagel-6242b7228">
                 <i class="bx bxl-linkedin"></i>
               </a>
               <a href="mailto:braunagel.christian+githubpages@gmail.com">
@@ -73,6 +73,7 @@ export default function Hero() {
             <img
               src={img}
               height="100%"
+              alt="personal"
               width="65%"
               style={{
                 borderRadius: "30px",
