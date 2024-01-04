@@ -15,7 +15,7 @@ export default function About() {
           <Col lg={4} className="d-flex justify-content-center">
             <img
               src={img}
-              height="80%"
+              height="90%"
               width="50%"
               alt="user"
               style={{ borderRadius: "50%" }}
@@ -26,42 +26,31 @@ export default function About() {
             <h3>Software Ambassador</h3>
             <br></br>
             <p style={{ color: "#728394" }}>
-              A Software Ambassador combines the technical knowledge with project management skills
-              to encourage digital transformation and a pragmatic way of working.
-
-              My expertise 
+              As a Software Ambassador, I combine the technical knowledge of the domains automated driving, DevOps, and software tooling with profound
+              project management skills to encourage and implement digital transformation and a pragmatic way of working.
             </p>
             <br></br>
             <p style={{ color: "#728394" }}>
-              Always seeking challenging position in and organization where my
-              skills find ample of oppurtunities for upgradation and growth of
-              the company.
+              Always interested in challenging positions where I can acquire new skills and knowledge, work on state-of-the art topics and 
+              create awesome products within a great team to delight our internal and external customers.
             </p>
             <br></br>
             <Row>
               <Col lg={4}>
                 <ul>
                   <li>
-                    <i class="bi bi-chevron-right"></i> <strong>Phone:</strong>{" "}
-                    <span>+353 0894010329</span>
-                  </li>
-                  <li>
                     <i class="bi bi-chevron-right"></i> <strong>City:</strong>{" "}
-                    <span>Dublin, Ireland</span>
+                    <span>Ravensburg, Germany</span>
                   </li>
                 </ul>
               </Col>
               <Col lg={7}>
                 <ul>
                   <li>
-                    <i class="bi bi-chevron-right"></i> <strong>Degree:</strong>{" "}
-                    <span>MSc - Intelligent Systems @ TCD (2021-2022)</span>
-                  </li>
-                  <li>
                     <i class="bi bi-chevron-right"></i> <strong>Email:</strong>{" "}
                     <span>
-                      <a href="mailto:borolebhushan8@gmail.com">
-                        borolebhushan8@gmail.com
+                      <a href="mailto:braunagel.christian+githubpages@gmail.com">
+                      braunagel.christian at gmail.com"
                       </a>
                     </span>
                   </li>
