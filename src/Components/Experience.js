@@ -8,23 +8,24 @@ import WorkIcon from "@material-ui/icons/Work";
 export default function Experience() {
   const items = [
     {
-      date: "September 2022 - Present",
-      cardTitle: "Microsoft",
-      cardSubtitle: "Software Engineer",
+      date: "January 2024 - Present",
+      cardTitle: "Mercedes-Benz AG",
+      cardSubtitle: "Product Owner | DevOps Engineer",
       cardDetailedText: [
-        "Developing automated systems that detect security issues and manage workflows across Azure Identity services on a global scale.",
-        "Implement privacy-enhancing technologies to ensure compliance with applicable privacy laws and regulations.",
+        "Leading a CI/CD consultancy team as Product Owner in the SAFe framework.",
+        "Consulting on and implementing solutions for internal customers to automate sw delivery from repo setup to unit testing.",
+        "Promote company-wide standards and best practices for tools and way of working."
       ].map(function (text) {
         return <li>{text}</li>;
       }),
     },
     {
-      date: "November 2020 – February 2021",
-      cardTitle: "Mobisy Technologies",
-      cardSubtitle: "Research & Development Intern",
+      date: "June 2021 – December 2023",
+      cardTitle: "Mercedes-Benz AG",
+      cardSubtitle: "Product Owner | Software Engineer",
       cardDetailedText: [
-        "Collected JSON data by web-scraping, using open API end points and storing it in a RDBMS.",
-        "Responsible for building SKU Classification system using the collected data.",
+        "Leading a developer team as Product Owner focussing on the development of an internal IDE.",
+        "Design and implementation of frontend and backend features of the IDE and its subcomponents.",
       ].map(function (text) {
         return <li>{text}</li>;
       }),

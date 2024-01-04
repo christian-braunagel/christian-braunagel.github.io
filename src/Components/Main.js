@@ -10,6 +10,7 @@ import Contact from "./Contact";
 const Main = () => (
   <main id="main">
     <About />
+    <Experience />
   </main>
 );
 
