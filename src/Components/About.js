@@ -1,4 +1,4 @@
-import img from "./images/bhushan_2.jpeg";
+import img from "./images/profile.jpeg";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
@@ -15,7 +15,7 @@ export default function About() {
           <Col lg={4} className="d-flex justify-content-center">
             <img
               src={img}
-              height="100%"
+              height="80%"
               width="50%"
               alt="user"
               style={{ borderRadius: "50%" }}
@@ -23,11 +23,13 @@ export default function About() {
           </Col>
           <Col lg={8} pt={4} className="content">
             <br></br>
-            <h3>Software Developer.</h3>
+            <h3>Software Ambassador</h3>
             <br></br>
             <p style={{ color: "#728394" }}>
-              A passionate Full Stack Developer, Competitive Programmer, ML
-              enthusiast and Tabla player.
+              A Software Ambassador combines the technical knowledge with project management skills
+              to encourage digital transformation and a pragmatic way of working.
+
+              My expertise 
             </p>
             <br></br>
             <p style={{ color: "#728394" }}>
