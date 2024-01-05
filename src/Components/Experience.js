@@ -31,23 +31,28 @@ export default function Experience() {
       }),
     },
     {
-      date: "September 2019 – October 2019",
-      cardTitle: "Techskills IT Consultants",
-      cardSubtitle: "Backend Developer",
+      date: "January 2019 – May 2021",
+      cardTitle: "Mercedes-Benz AG",
+      cardSubtitle: "System Engineer",
       cardDetailedText: [
-        "Developed applications using Spring Framework for Backend Restful API’s.",
-        "Wrote SQL/JPQL queries for Data persistence using Spring Data JPA.",
+        "Cooperation project between Mercedes-Benz AG & BMW AG",
+        "System design for driver assistance function of level 3 and 4.",
+        "Lead engineer for validation group \"Environmental perception\".",
       ].map(function (text) {
         return <li>{text}</li>;
       }),
     },
     {
-      date: "August 2018 – January 2019",
-      cardTitle: "TechSkills IT Consultants",
-      cardSubtitle: "Fullstack Developer Intern",
-      cardDetailedText:
-        "Developed a Meeting App website which handles all the data that happens in a meeting. In this project I developed several REST API's using Spring Boot and used the MVC architecture. These API's are being consumed in the frontend.",
-    },
+      date: "February 2017 – December 2018",
+      cardTitle: "Mercedes-Benz AG",
+      cardSubtitle: "Customer Function Owner",
+      cardDetailedText: [
+        "Responsible for driver assistance package Generation 4 in all MB compact cars.",
+        "Lead developer for map-based driver assistance functions.",
+      ].map(function (text){
+        return <li>{text}</li>;
+      }),
+    }
   ];
 
   return (
