@@ -50,7 +50,7 @@ export default function About() {
                     <i class="bi bi-chevron-right"></i> <strong>Email:</strong>{" "}
                     <span>
                       <a href="mailto:braunagel.christian+githubpages@gmail.com">
-                      braunagel.christian at gmail.com"
+                      Connect via mail
                       </a>
                     </span>
                   </li>
