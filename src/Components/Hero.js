@@ -37,7 +37,7 @@ export default function Hero() {
               </span>
             </p>
             <div class="social-links">
-              <a href="https://github.com/bhushan-borole">
+              <a href="https://github.com/christian-braunagel">
                 <i class="bx bxl-github"></i>
               </a>
               <a href="https://www.linkedin.com/in/christian-braunagel-6242b7228">
@@ -48,7 +48,7 @@ export default function Hero() {
               </a>
             </div>
             <br />
-            <Button
+            {/* <Button
               variant="outlined"
               target="_blank"
               href="https://drive.google.com/file/d/1XVfSZNcC6P9QlmEgA3s1Ebi23kydQGYj/view?usp=sharing"
@@ -59,7 +59,7 @@ export default function Hero() {
               }}
             >
               Download Resume
-            </Button>
+            </Button> */}
           </Col>
           <Col
             lg={6}
