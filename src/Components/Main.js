@@ -11,6 +11,7 @@ const Main = () => (
   <main id="main">
     <About />
     <Experience />
+    <Education />
     <hr />
     <Footer />
   </main>
